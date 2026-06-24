@@ -52,7 +52,7 @@
 # 🧰 Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=linux,python,bash,github,vscode" />
 </p>
 
 ---
